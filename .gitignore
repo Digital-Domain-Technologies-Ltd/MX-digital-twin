@@ -1,0 +1,15 @@
+# Secrets and sensitive data
+secrets/
+
+# Cloned repositories (separate git repos)
+mx-github-repo/
+
+# System files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
