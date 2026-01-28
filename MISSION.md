@@ -154,6 +154,79 @@ The MX community exists to help others navigate this transformation with framewo
 
 ---
 
+## The Future CMS Vision
+
+**The problem:** Teams drowning in schemas, components, templates, workflows, governance layers. Still modeling content by hand, one field at a time, as if the web hasn't fundamentally changed.
+
+**The future CMS:** A system that understands intent.
+
+Not nicer UI. Not faster workflows. A system that:
+- Learns from examples
+- Knows your brand, tone, constraints, patterns, rules
+- You describe what you want
+- It generates experiences that are consistent, compliant, accessible, ready for every channel
+
+**The shift:** From modeling content → expressing intent
+
+This isn't just a CMS upgrade. **This is the Machine Experience era.**
+
+---
+
+## Why This Converges
+
+**Machine Experience + Data Sovereignty + Future CMS = Same Story**
+
+**MX Foundation:**
+- Machines are now first-class users of the web
+- They read pages, interpret structures, enforce rules, generate experiences
+- If we don't design for them, we're designing for a world that no longer exists
+
+**Data Sovereignty Requirement:**
+- CMS that generates from intent only works if underlying content is machine-readable, portable, sovereign
+- Sovereignty = ability to move it, interpret it, audit it, recreate it
+- **Good MX is good portability**
+- When content is structured semantically (meaning is explicit), machines can understand it
+- When machines understand it, you can migrate it, govern it, future-proof it
+
+**The Future CMS Architecture:**
+Won't store pages. Will store **recipes:**
+- Intent
+- Constraints
+- Assets
+- Legal rules
+- Brand signals
+- System versions
+- Reasoning
+
+**But recipes only work if content inside them is sovereign.** Locked proprietary formats or stripped semantic meaning = entire vision collapses.
+
+**You can't have intelligent generation without intelligent governance.**
+
+---
+
+## The Convergence Point
+
+**Machine Experience, Data Sovereignty, and next-generation CMS thinking all converge. They're not separate ideas—they're the same story told from different angles.**
+
+1. **The web is becoming machine-first** (consumption, interpretation)
+2. **Creation, migration, compliance are becoming machine-assisted** (generation, governance)
+3. **Organizations that embrace this shift now** will be ready for what comes next
+
+---
+
+## The MX Book Vision
+
+Tom is writing The MX Book to help teams navigate this transition:
+- The language for machine-first thinking
+- The patterns for intent-based generation
+- The mental models for human-agent collaboration
+
+**Target audience:** Teams building the future of content who care about sovereignty, portability, and the next era of digital experience.
+
+**What it provides:** Frameworks to build for a world where humans and agents collaborate across the web.
+
+---
+
 **"Design for machines. Benefit humans. Advance both."** ⚡
 
 ---
