@@ -48,6 +48,39 @@
 - Solution: Content modeling + Schema.org structured data
 - Websites need to target 4 device types: Mobile, Tablet, Desktop, **Machine**
 
+**Key Teaching Concepts:**
+
+*Invisible Users (January 2026):*
+- Groups systematically overlooked in web design
+- Invisible to site owners (blend into analytics or filtered out)
+- Interfaces invisible to them (rely on signals they can't perceive)
+- Blind users have lived with this for decades
+- AI agents now encountering exactly the same problems
+
+*Old Failures, Newly Exposed:*
+- Non-semantic HTML, content only after JavaScript execution
+- Application state in client-side code only
+- Feedback that flashes and vanishes (toast notifications)
+- These are NOT new - well understood for years
+- What changed: who is now affected (AI agents expose at scale)
+- "The web has known how to do better for a long time. We simply did not feel enough pressure to act"
+
+*Real Example - £200,000 Pricing Error:*
+- AI agent researching river cruises returned prices £200,000+ per person
+- Actual prices: £2,000-£4,000
+- Root cause: European number formatting + missing guardrails
+- No range validation, no comparison, no structured pricing data
+- Result: delivered with same confidence as verified information
+- "This is how trust erodes. Not through spectacular crashes, but through small, plausible errors delivered authoritatively"
+
+*The Timeline Mismatch:*
+- Problems are old
+- Agents exposing them are already here
+- Organisational response moves slowly
+- Commercial influence arrives early (recommendation, comparison)
+- Full automation comes later
+- Understanding this mismatch is more useful than predictions
+
 ### Technical Depth
 - Deep understanding of AI system internals (statistical foundations, tokenization, pattern-matching)
 - Not surface-level AI hype — writes about next-token prediction, linguistic inequities, weighted averaging
@@ -163,6 +196,17 @@
 
 **CMS Summit 25 (May 2025):**
 - Presentation: "What are we missing from AI?"
+
+**Most Recent Talk (January 2026):**
+- **Boye & Company CMSExperts:** "Websites That Work Perfectly - Until They Don't" (January 21, 2026)
+- Introduced "invisible users" concept (blind users, AI agents - systematically overlooked)
+- Real examples of silent failures on live sites (£200,000 pricing error from European formatting + missing guardrails)
+- How different AI agents interact with websites today (server-side, browser-based, local)
+- Why their limitations mirror accessibility issues (toast notifications, ephemeral state)
+- Practical changes that improve clarity for everyone (persistent alerts, semantic HTML, Schema.org)
+- **Key insight:** "AI readiness and accessibility increasingly look like the same set of practices viewed from different angles"
+- **First-mover advantage:** Sites that work for agents are remembered and preferred; sites that don't are quietly avoided
+- Proposal: Treat Machine Experience (MX) as first-class concern alongside UX
 
 **Recent Writing (2024-2026):**
 
