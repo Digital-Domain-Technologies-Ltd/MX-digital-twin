@@ -1,5 +1,7 @@
 # Secrets and sensitive data
 secrets/
+**/gmail-credentials.json
+**/gmail-token.json
 
 # Cloned repositories (separate git repos)
 mx-github-repo/
