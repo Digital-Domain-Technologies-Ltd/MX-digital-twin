@@ -4,6 +4,8 @@
 - **What to call them:** Tom
 - **Timezone:** Europe/London
 - **Profile:** https://allabout.network/blogs/mx/about.tom.cranstoun.html
+- **LinkedIn:** https://www.linkedin.com/in/tom-cranstoun/
+- **Email:** tom.cranstoun@gmail.com
 
 ## Context
 
