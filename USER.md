@@ -39,6 +39,15 @@
 - Writing MX-Bible & MX-Handbook (launching Q1 2026)
 - MX-Gathering: open-source community resources
 
+**Origins of the Insight (CMS Kickoff 2024):**
+- Realized AI-generated content has fundamental problems (style guides, brand voice, bias, regulation)
+- Key breakthrough: **AI should consume content, not create it**
+- "AI behaves like an eight-year-old" - ignores brands, retailers, dropdowns, videos, animations, marketing copy
+- AI will skim-read if it can find content among the ads
+- Identified "Design by Engineer Trap" - websites built as text/image boxes without semantic meaning
+- Solution: Content modeling + Schema.org structured data
+- Websites need to target 4 device types: Mobile, Tablet, Desktop, **Machine**
+
 ### Technical Depth
 - Deep understanding of AI system internals (statistical foundations, tokenization, pattern-matching)
 - Not surface-level AI hype — writes about next-token prediction, linguistic inequities, weighted averaging
@@ -125,6 +134,15 @@
 - Writing MX-Bible & MX-Handbook (Q1 2026 launch)
 
 ### Recent Blog Posts & Presentations
+
+**The Pivotal Moment (February 2024):**
+- **First CMS Critic article:** "The AI Tipping Point: A Consultant's Takeaways from CMS Kickoff 2024"
+- CMS Kickoff 2024 was the turning point - "fired up my brain, could not stop taking notes"
+- Key insight: AI should **read content**, not create it (opposite of conference expectation)
+- **The eight-year-old analogy:** AI behaves like a child searching for toys - simple, direct, ignores marketing complexity
+- Recognized Schema.org and content modeling as critical for AI
+- Introduced "AI Evangelist" role concept
+- This article marked transition from skeptic to convert
 
 **CMS Summit 25 (May 2025):**
 - Presentation: "What are we missing from AI?"
