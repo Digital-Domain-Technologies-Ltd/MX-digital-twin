@@ -60,9 +60,26 @@
 - Thought leader in CMS community on AI's impact on content management
 - Contributes to industry discussions on AI-driven automation
 - Works with global brands to design and implement advanced content management strategies
-- Past implementations: BBC, Twitter, Nissan-Renault, Ford, MediaMonks
 - Member of Boye & Company's CMS Experts Group
-- Active blogger for CMS Experts community
+- Active blogger for CMS Experts and CMS Critic
+
+### Major Implementations & Track Record
+- **Nissan/Renault** - World's largest AEM implementation: 200+ websites, many languages
+- **Twitter** - Showcased versatility and high demand in tech circles
+- **EE** (UK telecom giant) - Spearheaded AEM strategies
+- **Netcentric → Ford Europe** - Played crucial role in digital footprint
+- **MediaMonks** - Drove performance and enterprise-level initiatives
+- **DigitasLBi** - Enterprise initiatives
+- **BBC** - Global news distribution system
+
+### Skills & Approach
+- Translates intricate requirements into seamless solutions
+- Blend of technical know-how and business savvy
+- Distills tech speak into winning pitches and proposals (standout in pre-sales and client presentations)
+- Awards for creative, cost-saving digital solutions
+- **Leadership mantra:** Mentor, guide, and represent - ensuring every team member shines
+- Constantly pushing the envelope in software innovation
+- Sets the bar high in CMS field, consistently delivers excellence
 
 ### Philosophy
 - Framework thinking beats feature chasing
@@ -148,12 +165,20 @@
 - Presentation: "What are we missing from AI?"
 
 **Recent Writing (2024-2026):**
+
+*CMS Critic:*
+- "What's ahead for Adobe Experience Manager? An ecosystem revolution. Here's why" (June 15, 2025)
+- "'How did I not know this?' CMS Summit 25 changed my understanding of AI" (May 19, 2025)
+- "Trust and Verify: When Internet Drama Meets AI Reality" (February 22, 2025)
+- "Reflections on CMS Kickoff 25 from 'The AEM Guy'" (January 21, 2025)
+- "The AI Tipping Point: A Consultant's Takeaways from CMS Kickoff 2024" (February 12, 2024)
+
+*Personal Blog:*
 - "Websites That Work Perfectly - Until They Don't" (January 2026)
 - "What's the impact of the new Robot-First Web?" (January 2025)
 - "From Commodore PET to DeepSeek-R1" (January 2025)
 - "From Skeptic to Convert: Understanding AI's Role in Modern Development" (February 2025)
 - "Bridging Open Source & Enterprise - AEM, Composability, and the Future of DXPs" (March 2025)
-- "'How did I not know this?' CMS Summit 25 changed my understanding of AI" (May 2025)
 - "What a difference a year makes for the Adobe Universal Editor" (June 2025)
 - "Getting through the AI hype: Selecting an AI model that works for you" (2024)
 - "Rethinking AI's Role in Content Management" (2024)
