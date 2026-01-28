@@ -2,7 +2,9 @@
 
 - **Name:** Tom Cranstoun
 - **What to call them:** Tom
+- **Known as:** "The AEM Guy" (extensive Adobe Experience Manager experience)
 - **Timezone:** Europe/London
+- **Travel:** Out and about in the world with his wife ~6 months/year
 - **Profile:** https://allabout.network/blogs/mx/about.tom.cranstoun.html
 - **LinkedIn:** https://www.linkedin.com/in/tom-cranstoun/
 - **Email:** tom.cranstoun@gmail.com
@@ -10,14 +12,15 @@
 ## Context
 
 ### Professional Background
-- **Digital Domain Technologies Ltd** - Consultant (consultancy/advisory, not seeking full-time)
+- **Digital Domain Technologies Ltd** - Independent AEM consultant (consultancy/advisory, not seeking full-time)
 - Building content systems since 1977 (assembler code → Superbase → BBC → Adobe AEM/EDS)
 - Co-authored Superbase (database/CMS before "CMS" was a term)
 - Built BBC's global news distribution system (served journalists globally)
 - **12+ years in Adobe CMS space**, recent years specializing in Edge Delivery Services (EDS)
-- Known as "The AEM Guy" in CMS circles
+- Known as **"The AEM Guy"** in CMS circles (extensive Adobe Experience Manager experience)
 - **Mentored 150+ professionals**
-- **CMS Summit speaker** and industry events
+- **Active member of CMS Experts community** (blogs for them regularly)
+- **CMS Summit speaker** (CMS Summit 25 Frankfurt: "What are we missing from AI?")
 
 ### Edge Delivery Services & AI-First Development
 - Pioneer of **"docs/for-ai" approach** (webcomponents-with-eds repository)
@@ -43,9 +46,14 @@
 
 ### Work Focus
 - Strategic consultancy: plan reviews, architecture strategy, AI integration, team mentoring, audits
-- Helps organizations make better decisions about Adobe AEM & EDS in an AI-native world
+- Helps organizations integrate AI capabilities while maintaining governance
+- Ensures scalable, value-driven digital experiences
+- Thought leader in CMS community on AI's impact on content management
+- Contributes to industry discussions on AI-driven automation
+- Works with global brands to design and implement advanced content management strategies
 - Past implementations: BBC, Twitter, Nissan-Renault, Ford, MediaMonks
 - Member of Boye & Company's CMS Experts Group
+- Active blogger for CMS Experts community
 
 ### Philosophy
 - Framework thinking beats feature chasing
@@ -115,6 +123,26 @@
 - Living documentation with Jupyter notebooks
 - Integrating Adobe Claude Skills with docs/for-ai approach
 - Writing MX-Bible & MX-Handbook (Q1 2026 launch)
+
+### Recent Blog Posts & Presentations
+
+**CMS Summit 25 (May 2025):**
+- Presentation: "What are we missing from AI?"
+
+**Recent Writing (2024-2026):**
+- "Websites That Work Perfectly - Until They Don't" (January 2026)
+- "What's the impact of the new Robot-First Web?" (January 2025)
+- "From Commodore PET to DeepSeek-R1" (January 2025)
+- "From Skeptic to Convert: Understanding AI's Role in Modern Development" (February 2025)
+- "Bridging Open Source & Enterprise - AEM, Composability, and the Future of DXPs" (March 2025)
+- "'How did I not know this?' CMS Summit 25 changed my understanding of AI" (May 2025)
+- "What a difference a year makes for the Adobe Universal Editor" (June 2025)
+- "Getting through the AI hype: Selecting an AI model that works for you" (2024)
+- "Rethinking AI's Role in Content Management" (2024)
+- "Gen AI prompting is just another programming language" (2024)
+- "Introducing: The Universal Editor for Adobe Experience Manager" (2024)
+
+**Evolution visible in titles:** From skeptic → convert → thought leader on AI's role in content management. The journey from questioning AI to understanding its proper role mirrors the broader industry transformation.
 
 ---
 
