@@ -8,12 +8,23 @@
 ## Context
 
 ### Professional Background
+- **Digital Domain Technologies Ltd** - Consultant (consultancy/advisory, not seeking full-time)
 - Building content systems since 1977 (assembler code → Superbase → BBC → Adobe AEM/EDS)
 - Co-authored Superbase (database/CMS before "CMS" was a term)
-- Built BBC's global news distribution system
-- 10+ years with Adobe AEM, recent years with Edge Delivery Services
+- Built BBC's global news distribution system (served journalists globally)
+- **12+ years in Adobe CMS space**, recent years specializing in Edge Delivery Services (EDS)
 - Known as "The AEM Guy" in CMS circles
-- Works through Digital Domain Technologies (consultancy/advisory)
+- **Mentored 150+ professionals**
+- **CMS Summit speaker** and industry events
+
+### Edge Delivery Services & AI-First Development
+- Pioneer of **"docs/for-ai" approach** (webcomponents-with-eds repository)
+- Creates comprehensive documentation that makes AI assistants knowledgeable partners
+- **Zero-dependency frameworks** using vanilla JavaScript (no complex toolchains)
+- **Living documentation** with browser-based Jupyter notebooks
+- Integrates **Adobe Claude Skills** (lightweight workflow orchestrators) with docs/for-ai (detailed knowledge)
+- **Efficiency gains:** Reduced documentation creation from 2+ hours to 8 minutes
+- Philosophy: AI amplifies human expertise rather than replacing it
 
 ### Machine Experience (MX)
 - Creator of the "Machine Experience" concept — where my name comes from!
@@ -40,6 +51,14 @@
 - Strategic advantage = having the right frameworks in place before you need them
 - "Design for machines, benefit humans"
 
+### Development Philosophy & Approach
+- **Zero dependencies**: Sophisticated web development doesn't require complex toolchains
+- **Vanilla JavaScript**: Clean thinking + good documentation + proper AI integration = enterprise capabilities
+- **Human-AI collaboration**: AI amplifies human expertise, doesn't replace it
+- **Living documentation**: Browser-based Jupyter notebooks serving multiple audiences (devs, content teams, sales, support)
+- **Comprehensive documentation**: ~90% of implementation knowledge in docs/for-ai makes AI assistants truly effective
+- **Multiple audiences simultaneously**: Technical content serves developers, sales teams, support staff from same source
+
 ### AI-Ready Architecture Principles
 - **Runtime Debugging Trap**: AI wastes time fixing generated/transformed code that disappears on next build — must debug source, not runtime output
 - **Semantic Structure**: Use meaningful naming (user-authentication/ not auth/) — encode intent in file system
@@ -49,6 +68,51 @@
 - **docs/for-ai/**: Architectural documentation for AI consumption (system architecture, data flow, transformations)
 - **Self-documenting structures**: File system itself communicates intent
 - Priority: Stop runtime debugging trap first (immediate wins), then semantic structure, then full AI-first design
+
+### Writing Style V2 Guidelines
+- **British English** (always)
+- **Natural conversational tone** (not corporate)
+- **Specific structural requirements**: bio tables, indexes, comprehensive metadata sections
+- **Technical accuracy** paramount - request corrections when relationships between technologies aren't portrayed correctly
+- **Proper attribution** - accurately represent influence and relationships between innovations
+- **Blog post pattern**: Technical documentation → engaging blog post + SVG illustrations + LinkedIn promotional content
+- **Content transformation**: Documentation serves multiple formats and audiences
+
+### Tools & Development Environment
+- **IDE**: Visual Studio Code with Jupyter notebook plugins
+- **JavaScript runtime**: Node.js with tslab (JavaScript kernel for Jupyter)
+- **Installation**: pip3 (Python packages), npm (Node packages)
+- **Documentation**: Browser-based Jupyter notebooks (zero setup requirements)
+- **Platform**: Adobe Edge Delivery Services (EDS)
+- **AI Integration**: Claude AI with Adobe Claude Skills + docs/for-ai
+- **Visualization**: SVG illustrations for technical content
+- **Repository**: webcomponents-with-eds (docs/for-ai pioneer work)
+
+### Key Learnings & Proven Results
+- **Zero-dependency success**: Enterprise-level capabilities without external dependencies
+- **Documentation time reduction**: 2+ hours → 8 minutes using Claude + Adobe EDS Skills
+- **AI effectiveness insight**: AI assistants need comprehensive, structured documentation (~90% knowledge in docs/for-ai)
+- **Skills as orchestrators**: Adobe's lightweight Skills work because docs/for-ai provides detailed implementation knowledge
+- **Human-AI collaboration wins**: Development time reductions + improved outcomes through amplification, not replacement
+- **Framework thinking**: BBC, Twitter, Nissan-Renault succeeded because frameworks helped distributed teams make consistent decisions independently
+
+### Content Creation Patterns
+- Transform technical documentation into engaging blog posts
+- Include SVG illustrations for technical concepts
+- Create LinkedIn promotional content for broader distribution
+- Serve multiple audiences from single source (developers, sales, content teams, support)
+- Iterate on content for technical accuracy
+- Request corrections when technology relationships aren't accurate
+- Ensure proper attribution of influence and innovation
+
+### Current Work Focus
+- Zero-dependency frameworks for Adobe EDS using vanilla JavaScript
+- Production-ready components with AI skills
+- Comprehensive documentation systems
+- Browser-based testing capabilities
+- Living documentation with Jupyter notebooks
+- Integrating Adobe Claude Skills with docs/for-ai approach
+- Writing MX-Bible & MX-Handbook (Q1 2026 launch)
 
 ---
 
