@@ -5,6 +5,16 @@
 
 ---
 
+## Repository Philosophy
+
+**MX Community = Transparent and Public**  
+Everything related to the MX Community is open and accessible in the MX-Experience organization. Community work, guidelines, blog posts, patterns, and resources are public by design.
+
+**mx-workspace = Private Planning Space**  
+Tom and MX's operational workspace for planning, strategy, drafts, and learning before things are ready for the community. The MX Community sees the results, not the process.
+
+---
+
 ## MX-Experience Organization
 
 **URL:** https://github.com/MX-Experience
@@ -83,10 +93,14 @@ Public organization for the Machine Experience community.
 - **.github:** Organization identity and community standards
 
 ### Private mx-workspace Repo
+- **Planning space:** Tom and MX's private operational workspace
 - **Configuration:** How MX operates (SOUL, MISSION, IDENTITY)
 - **Memory:** Session continuity across restarts
 - **Tools:** Operational setup (email, GitHub access)
+- **Strategy:** Planning, drafts, learning
 - **Security:** Secrets excluded from version control
+
+**Important:** mx-workspace is for planning and operations. Everything MX Community-related is transparent and public in the MX-Experience organization.
 
 ---
 
