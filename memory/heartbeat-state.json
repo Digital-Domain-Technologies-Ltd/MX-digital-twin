@@ -1,0 +1,12 @@
+{
+  "lastAINewsResearch": "2026-02-03T17:03:29.082199Z",
+  "lastAINewsResearchAttempt": "2026-02-06T04:15:21Z",
+  "aiNewsResearchError": "missing_brave_api_key",
+  "lastEmailCheck": {
+    "mx": "2026-02-06T11:27:09Z",
+    "tom": "2026-02-05T03:42:19.835322Z"
+  },
+  "lastEnhancedEmailSummary": "2026-02-06T11:27:09Z",
+  "last7DaySummary": "2026-02-06T11:27:09Z",
+  "tomEmailError": "no_gmail_credentials"
+}
