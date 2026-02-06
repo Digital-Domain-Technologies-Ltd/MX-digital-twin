@@ -108,10 +108,21 @@ Links:
 - Compile summary with links
 - Send to Tom
 
+**12:00 AM (Midnight) - GitHub Backup:**
+- Only execute if current hour is 0 (midnight) AND not yet done today
+- Check for uncommitted changes: `git status --porcelain`
+- If changes exist:
+  - Add all changes: `git add -A`
+  - Commit with descriptive message including date
+  - Push to origin/main
+- Track in `memory/heartbeat-state.json` with timestamp
+- Fail silently if no changes (this is normal)
+
 **Tracking file:** `memory/heartbeat-state.json`
 ```json
 {
   "lastAINewsResearch": "2026-02-03T05:00:00Z",
+  "lastGitHubBackup": "2026-02-06T00:00:00Z",
   "lastEmailCheck": {...}
 }
 ```
